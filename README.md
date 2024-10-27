@@ -4,9 +4,9 @@ This project provides the Sales Director of a computer hardware business with re
 
 Data Sources & Technologies:
 
-Data Source: Company sales data, prepared and cleaned in MySQL.
-Tools Used: MySQL for data cleaning and initial analysis; Power BI with DAX for advanced visualizations and metrics.
-Skills Demonstrated: Data cleaning and transformation in SQL, DAX (Data Analysis Expressions), Power BI dashboard design, performance analysis.
+ Data Source: Company sales data, prepared and cleaned in MySQL.
+ Tools Used: MySQL for data cleaning and initial analysis; Power BI with DAX for advanced visualizations and metrics.
+ Skills Demonstrated: Data cleaning and transformation in SQL, DAX (Data Analysis Expressions), Power BI dashboard design, performance analysis.
 
 Key DAX Measures:
 
